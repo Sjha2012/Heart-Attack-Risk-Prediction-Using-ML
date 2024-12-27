@@ -4,18 +4,18 @@ of the heart is the driving force behind this research. The heart
 is a crucial part of our bodies, and heart disease has become the
 leading cause of death globally. With the increase in number of 
 deaths among people due to heart diseases, it becomes an issue to
-be addressed.
-Our project was under the guidance of Dr. Pawan Kumar Tiwari and 
-Prof. Vineet Kansal. We built an online platform to predict the 
+be addressed. I built an online platform to predict the 
 risk of heart attack in a patient.
+
 This application takes age, BMI, Systolic BP, Diastolic BP, heart
 rate and blood glucose levels as input to give the risk in percentage
 associated with having a heart attack in a patient in 10 years time.
+
 ## Installation
 - Check is python is installed in your system by typing python --version in your command prompt. If not then install python on your system by downloading the setup from the python website [here](https://www.python.org/downloads/).
 - Clone the project (or download the folder to your local)
     ```
-      git clone https://github.com/jageshsoni/HeartAttackRiskPredictionUsingML.git
+      git clone https://github.com/Sjha2012/HeartAttackRiskPredictionUsingML.git
     ```
 - Go to project directory
     ```
@@ -34,4 +34,4 @@ To get the risk associated with heart attack, input the values of  age, BMI, Sys
 ## Machine Learning Model Used
 K Nearest Neighbor Algorithm
 ## Author
-[Sweety Kumari]()
+[Sweety Kumari](https://github.com/Sjha2012)
